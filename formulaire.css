@@ -1,12 +1,12 @@
 body
 {
-	background-color: #700;
+	background-color: #006977;
 }
 #div1
 {
 	height: 500px;
 	width: 52%;
-	background-color: #7a0;
+	background-color: white;
 	border-radius: 5px;
 	margin-left: 60px;
 	margin-top: 60px;
@@ -16,7 +16,7 @@ body
 #nom , #prenom
 {
 	height: 40px;
-	width: 300px;
+	width: 293px;
 }
 form
 {
@@ -38,7 +38,7 @@ form
 	height: 40px;
 	width: 97%;
 	font-size:30px;
-	background-color: #700;
+	background-color: #006977;
 }
 #p1
 {
